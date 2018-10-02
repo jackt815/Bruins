@@ -1,6 +1,14 @@
 h1,a {
 color: black;
 }
+
+h1 {
+  border: 2px solid black;
+  margin-left: 510px;
+  margin-right: 510px;
+  margin-top: 10px;
+}
+
 body {
   background-color: #000000;
   font-family: georgia;
