@@ -126,3 +126,8 @@ iframe {
 .textdecoration {
   text-decoration: underline;
 }
+
+h1:hover {
+  background-color: white;
+  color: blue;
+}
